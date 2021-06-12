@@ -8,7 +8,7 @@ This repository is created to keep track of [IBM Data Analyt Professional Certif
 <p align="center">
 <img src="https://raw.githubusercontent.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/main/Certificates/Coursera%20(IBM)%20-%20IBM%20Data%20Analyst%20Professional%20Certificate-1.png" width="650" height="480"/></p>
 
----
+
 
 ## Table of Contents
 
@@ -20,9 +20,13 @@ This repository is created to keep track of [IBM Data Analyt Professional Certif
 6. [Databases and SQL for Data Science with Python](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 7. [Data Analysis with Python](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/07.%20%20Data%20Analysis%20with%20Python)
 8. [Data Visualization with Python](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
-9. [IBM Data Analyst Capstone Project](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20%20IBM%20Data%20Analyst%20Capstone%20Project)
+9. [IBM Data Analyst Capstone Project](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20%20IBM%20Data%20Analyst%20Capstone%20Project)<br><br>
+
+
+
+## Credit
+* [Coursera - IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst#courses)
 
 <br>
 
-## Credit
-* [Coursera - IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst#courses) 
+[![Gmail](https://img.shields.io/badge/Back%20to-Kiam%20Boon's%20Profile-darkorange?style=flat-square)](https://github.com/kiamboon/Profile)
