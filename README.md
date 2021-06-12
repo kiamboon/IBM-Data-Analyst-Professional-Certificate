@@ -30,3 +30,6 @@ This repository is created to keep track of [IBM Data Analyt Professional Certif
 <br>
 
 [![Back to profile](https://img.shields.io/badge/Back%20to-Kiam%20Boon's%20Profile-darkorange?style=flat-square)](https://github.com/kiamboon/Profile)
+
+---
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
