@@ -12,15 +12,15 @@ This repository is created to keep track of [IBM Data Analyt Professional Certif
 
 ## Table of Contents
 
-1. [Introduction to Data Analytics](https://)
-2. [Excel Basics for Data Analysis](https://)
-3. [Data Visualization and Dashboards with Excel and Cognos]()
-4. [Python for Data Science, AI & Development]()
-5. [Python Project for Data Science]()
-6. [Databases and SQL for Data Science with Python]()
-7. [Data Analysis with Python]()
-8. [Data Visualization with Python]()
-9. [IBM Data Analyst Capstone Project]()
+1. [Introduction to Data Analytics](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/01.%20Introduction%20to%20Data%20Analytics)
+2. [Excel Basics for Data Analysis](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/02.%20%20Excel%20Basics%20for%20Data%20Analysis)
+3. [Data Visualization and Dashboards with Excel and Cognos](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+4. [Python for Data Science, AI & Development](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+5. [Python Project for Data Science](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/05.%20%20Python%20Project%20for%20Data%20Science)
+6. [Databases and SQL for Data Science with Python](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+7. [Data Analysis with Python](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/07.%20%20Data%20Analysis%20with%20Python)
+8. [Data Visualization with Python](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
+9. [IBM Data Analyst Capstone Project](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20%20IBM%20Data%20Analyst%20Capstone%20Project)
 
 <br>
 
