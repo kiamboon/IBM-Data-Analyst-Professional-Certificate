@@ -1,9 +1,9 @@
-# IBM Data Analyt Professional Certificate
+# IBM Data Analyst Professional Certificate
 
 Author: Soh Kiam Boon<br>
 ![Status](https://img.shields.io/badge/Status:-Completed%20on%2026%20May%202021-brightgreen?style=plastic)
 
-This repository is created to keep track of [IBM Data Analyt Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) provided by Coursera. This program is developed by IBM and consisting of 9 courses that demonstrates an individual's skills in data science topics, including open source tools and libraries, methodologies, Python databases, SQL, data visualization, data analysis, and Capstone Project. At the end, we can earn a Professional Certificate from Coursera and digital badges (9 + 1 badges) from IBM recognizing proficiency in data science.
+This repository is created to keep track of [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) provided by Coursera. This program is developed by IBM and consisting of 9 courses that demonstrates an individual's skills in data science topics, including open source tools and libraries, methodologies, Python databases, SQL, data visualization, data analysis, and Capstone Project. At the end, we can earn a Professional Certificate from Coursera and digital badges (9 + 1 badges) from IBM recognizing proficiency in data science.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/kiamboon/IBM-Data-Analyst-Professional-Certificate/main/Certificates/Coursera%20(IBM)%20-%20IBM%20Data%20Analyst%20Professional%20Certificate-1.png" width="650" height="480"/></p>
